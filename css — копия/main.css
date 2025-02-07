@@ -1,0 +1,29 @@
+body{
+    background-color: brown;
+}
+.box{
+    color: white;
+    border: 5px solid white;     /* solid,dotted,dashed,double,ridge,groove,inset,outset*/ 
+    /*border-width: 5px;*/   
+    border-top-width:6px;
+    border-right-width:8px ;
+    border-bottom-width:4px;
+    border-left-width:7px ;
+    /*border-style: solid;*/
+    border-top-style: dotted;
+    border-right-style: dashed;
+    border-bottom-style: double;
+    border-left-style: inset;
+    /*border-color: white;*/
+    border-top-color: yellow;
+    border-right-color: green;
+    border-bottom-color: aqua;
+    border-left-color: springgreen;
+    text-align: center;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing:3px;
+    word-spacing:5px;
+    line-height:15px;
+ 
+}

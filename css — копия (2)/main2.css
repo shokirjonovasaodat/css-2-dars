@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(127, 223, 255);
+}
+.text{
+    background-color: green;
+    color: white;
+    width: 600px;
+    height: 30px;
+}
+.home{
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 80px;
+}
+.fun{
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 250px;
+}
+.box{
+    width: 700px;
+}
+.rasm{
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+}
+.matn{
+    width: 300px;
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 20px;
+}
